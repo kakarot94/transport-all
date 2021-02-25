@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-E sada menjam u master branch
-=======
 Nova promena
->>>>>>> newBranch
 dfasdfadadsa
 e sad ovde 
